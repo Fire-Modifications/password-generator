@@ -1,3 +1,4 @@
+[![Main Release](https://github.com/Fire-Modifications/password-generator/actions/workflows/release.yml/badge.svg?event=release)](https://github.com/Fire-Modifications/password-generator/actions/workflows/release.yml)
 # Requirments
 * Python3 (python and pyhton2 will work just fine)
 * An IDE if you want to edit

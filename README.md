@@ -9,9 +9,12 @@
 # Want it more secure than it already is?
 You can just add more characters to the `chars` in `password_generator.py`.
 
+# Do you not want to worry about having to know "coding"?
+Checkout the [releases](https://github.com/Fire-Modifications/password-generator/releases) to install a GUI (Graphical User Interface)!
+
 # Discord
 <div align="left">
-    <a target="_blank" href="https://discord.gg/46HQ9rJ" title="Join our Discord!">
-        <img  src="https://discordapp.com/api/guilds/713125432618385500/widget.png?style=banner2" height="76px" draggable="false" alt="Join our Discord!">
+    <a target="_blank" href="https://firemodifications.com/discord" title="Join our Discord!">
+        <img  src="https://discordapp.com/api/guilds/846147456915341332/widget.png?style=banner2" height="76px" draggable="false" alt="Join our Discord!">
     </a>
 </div>

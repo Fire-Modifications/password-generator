@@ -16,6 +16,6 @@ Checkout the [releases](https://github.com/Fire-Modifications/password-generator
 # Discord
 <div align="left">
     <a target="_blank" href="https://firemodifications.com/discord" title="Join our Discord!">
-        <img  src="https://discordapp.com/api/guilds/846147456915341332/widget.png?style=banner2" height="76px" draggable="false" alt="Join our Discord!">
+        Join the Discord if you need help!
     </a>
 </div>

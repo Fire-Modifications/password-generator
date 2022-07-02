@@ -1,4 +1,5 @@
 [![Main Release](https://github.com/Fire-Modifications/password-generator/actions/workflows/release.yml/badge.svg?event=release)](https://github.com/Fire-Modifications/password-generator/actions/workflows/release.yml)
+[![DeepScan grade](https://deepscan.io/api/teams/18195/projects/21518/branches/620939/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=18195&pid=21518&bid=620939)
 # Requirments
 * Python3 (python and pyhton2 will work just fine)
 * An IDE if you want to edit
